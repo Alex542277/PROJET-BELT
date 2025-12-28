@@ -11,7 +11,7 @@ Au Bénin, les processus électoraux sont souvent confrontés à plusieurs défi
 Solution envisagée:\
 Une application mobile et plateforme web de suivi électoral citoyen permettant pour palier à ces problèmes.\
 
-Objectif pincipal: Créer un outil numérique citoyen qui renforce la transparence, la crédibilité et l'inclusivité des processus électoraux au Bénin, en permettant un suivi indépendant, participatif et en temps réel de toutes les phases du cycle électoral.\
+Objectif pincipal: Créer un outil numérique citoyen qui renforce la transparence, la crédibilité et l'inclusivité des processus électoraux au Bénin, en permettant un suivi indépendant, participatif et en temps réel de toutes les phases du cycle électoral.
 
 Bénéficiaires:\
 Citoyens Béninois, Observateurs électoraux,CENA, médias
